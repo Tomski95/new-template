@@ -1,0 +1,15 @@
+/bootAssets
+/build
+/config
+/dist
+/gameAssets
+/lib
+/MyApp
+/node_modules
+/src
+/static
+/template
+.babelrc
+gulpfile.js
+package-lock.json
+package.json
